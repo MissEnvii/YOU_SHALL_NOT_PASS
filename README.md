@@ -1,6 +1,7 @@
 # Welcome to the test!
 ```
-The goal was just to create a quiz with multiple-choice questions. Making sure the timer countes down gets doc time when anwser wrong and keeps track of your score at the end. 
+The goal was just to create a quiz with multiple-choice questions. Making sure the timer countes 
+down gets doc time when anwser wrong and keeps track of your score at the end. 
 ```
 #
 ## User Story
@@ -55,7 +56,8 @@ I'll start off by making the questions!
 ![Main JS](assets/img/mainJS04.jpg)
 ![Main JS](assets/img/mainJS05.jpg)
 ```
-the JS above allows the questions to be anwsered shows if its wrong or right and will track it as you go. At the end it will be able to take yo to the next page which we need to make another JS for the ScoreBoard!
+the JS above allows the questions to be anwsered shows if its wrong or right and will track it
+ as you go. At the end it will be able to take yo to the next page which we need to make another JS for the ScoreBoard!
 ```
 ![Score JS](assets/img/veiwScore.jpg)
 ```
