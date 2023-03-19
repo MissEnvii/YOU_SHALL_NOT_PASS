@@ -47,8 +47,22 @@ Our site now look Better
 ![Highscores](assets/img/Scroe%20site.jpg)
 ```
 Nows lets go make a JS file to get this site working!
+I'll start off by making the questions!
 ```
-![Main JS]()
+![Main JS](assets/img/mainJS01.jpg)
+![Main JS](assets/img/mainJS02.jpg)
+![Main JS](assets/img/mainJS03.jpg)
+![Main JS](assets/img/mainJS04.jpg)
+![Main JS](assets/img/mainJS05.jpg)
+```
+the JS above allows the questions to be anwsered shows if its wrong or right and will track it as you go. At the end it will be able to take yo to the next page which we need to make another JS for the ScoreBoard!
+```
+![Score JS](assets/img/veiwScore.jpg)
+```
+In the end we come up with a full Quiz with tracking scores
+```
+![Quiz](assets/img/QuizGIFCLass%20-%20Made%20with%20Clipchamp.gif)
+
 
 
 
